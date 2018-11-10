@@ -1,0 +1,23 @@
+automatic updates
+自动更新
+
+anonymous usage stats
+匿名使用统计
+
+advertising
+广告
+
+auto-fetch each 15 minutes
+自动获取每15分钟
+
+indent merged commits
+缩进合并提交
+
+show line numbers in diff
+显示差异中的行号
+
+darktheme
+黑暗主题
+
+user cancelled certigicate check
+用户注销证书
